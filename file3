@@ -1,0 +1,15 @@
+Hello
+vi file1
+create a new file and send workstation to staging
+git status
+check what is the status of the file
+ex:red (workstation)
+git add file1
+git status
+git commit -m "file move to github" file1
+git log
+take the log file first 4 digites
+git show c767
+move to github
+git push url
+
