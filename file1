@@ -1,0 +1,8 @@
+vi file name
+git add file1
+git status
+git commit -m "desc" file1
+git log
+git show cid <f390>
+git push url <https://github.com/krishna55673/project3.git>
+
